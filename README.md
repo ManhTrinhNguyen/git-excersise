@@ -5,3 +5,4 @@ Update Readme from Bugfix branch
 Update second thing from Bugfix branch
 Test Git Rebase 
 From Remote 
+Solve Git Merch conflict
