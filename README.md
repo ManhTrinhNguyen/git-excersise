@@ -4,3 +4,4 @@ Add something from local
 Update Readme from Bugfix branch
 Update second thing from Bugfix branch
 Test Git Rebase 
+From Remote 
